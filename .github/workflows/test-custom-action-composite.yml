@@ -1,4 +1,6 @@
-#on: [push]
+name: Workflow action composite
+
+on: [push]
 
 jobs:
   hello_world_job:
